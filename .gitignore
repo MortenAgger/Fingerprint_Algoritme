@@ -1,0 +1,16 @@
+cat > .gitignore << 'EOF'
+# build output
+build/
+*.o
+*.a
+*.so
+*.dylib
+*.exe
+
+# macOS
+.DS_Store
+
+# editor
+.vscode/
+.idea/
+EOF
