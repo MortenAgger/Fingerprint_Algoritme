@@ -2,7 +2,7 @@
 
 A C++ prototype for an (audio) fingerprinting algorithm that combines **digital signal processing (DSB)** with **data structures & algorithms (DOA)** to identify/match a query against a small library of tracks.
 
-> Repo structure: `src/`, `include/`, `Sange/`, and a `Makefile`. :contentReference[oaicite:1]{index=1}
+> Repo structure: `src/`, `include/`, `Sange/`, and a `Makefile`. 
 
 ---
 
